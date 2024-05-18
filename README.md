@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mercan Zubaroğlu</h1>
-- ✍🏻 **I am a Computer Engineering student at Harran University. I am also studying Management Information Systems at Istanbul University and Geographic Information Systems at Anadolu University.**
+- ✍🏻 I am a Computer Engineering student at Harran University. I am also studying Management Information Systems at Istanbul University and Geographic Information Systems at Anadolu University.
 
 - 👩🏻‍💻 **One of my career goals is to develop myself as a data analyst and in this direction, I am working with Python language. I aim to have in-depth knowledge in the field of data analytics and to add value to business results by analyzing data effectively. Currently, I am focusing on further strengthening myself in this field by combining my knowledge and skills with practical experience.**
 
